@@ -1,4 +1,4 @@
-# Minecraft Quilt Server Manager
+# Quilt MC Server Launcher 
 
 A comprehensive bash script for managing Minecraft Quilt servers with automatic dependency installation, interactive configuration, and session management.
 
