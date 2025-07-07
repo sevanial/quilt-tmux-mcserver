@@ -22,7 +22,7 @@ A comprehensive bash script for managing Minecraft Quilt servers with automatic 
 
 1. **Download the script**:
    ```bash
-   curl -O https://raw.githubusercontent.com/sevanial/sevanial/main/mcserver.sh
+   curl -O https://raw.githubusercontent.com/sevanial/quilt-tmux-mcserver/main/mcserver.sh
    chmod +x mcserver.sh
 
    ```
